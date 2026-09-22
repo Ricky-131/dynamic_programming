@@ -1,2 +1,2 @@
 # dynamic_programming
-~ team dp
+~ **TEAM DYNAMITES**
