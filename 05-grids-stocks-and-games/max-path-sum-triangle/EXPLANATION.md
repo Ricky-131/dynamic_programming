@@ -24,9 +24,9 @@
 | Approach | Time Complexity | Space Complexity | Status |
 | :--- | :---: | :---: | :---: |
 | 1. Brute Force Recursion | $O(2^{M+N})$ | $O(M+N)$ | TLE |
-| 2. Top-Down (Memoization) | $O(M 	imes N)$ | $O(M 	imes N)$ | Accepted |
-| 3. Bottom-Up (Tabulation) | $O(M 	imes N)$ | $O(M 	imes N)$ | Accepted |
-| 4. Space-Optimized | $O(M 	imes N)$ | $O(N)$ | Optimal |
+| 2. Top-Down (Memoization) | $O(M × N)$ | $O(M × N)$ | Accepted |
+| 3. Bottom-Up (Tabulation) | $O(M × N)$ | $O(M × N)$ | Accepted |
+| 4. Space-Optimized | $O(M × N)$ | $O(N)$ | Optimal |
 
 ---
 

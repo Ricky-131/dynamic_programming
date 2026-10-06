@@ -14,7 +14,7 @@ This track brings together four advanced Dynamic Programming paradigms:
 ### Concept & Transition
 - At cell $(r, c)$, moving only **Right** and **Down**:
   $$\text{dp}[r][c] = \text{grid}[r][c] + \min(\text{dp}[r-1][c], \, \text{dp}[r][c-1])$$
-- **Space Optimization:** A 2D $M \times N$ matrix can almost always be optimized to a **1D array of size $N$** because state $(r, c)$ only depends on the current row and the row directly above it.
+- **Space Optimization:** A 2D $M × N$ matrix can almost always be optimized to a **1D array of size $N$** because state $(r, c)$ only depends on the current row and the row directly above it.
 
 ```python
 # Min Path Sum (O(N) Space)
