@@ -23,9 +23,9 @@
 | Approach | Time Complexity | Space Complexity | Status |
 | :--- | :---: | :---: | :---: |
 | 1. Brute Force Recursion | $O(S^N)$ | $O(A)$ | TLE |
-| 2. Top-Down (Memoization) | $O(N \times A)$ | $O(A)$ | Accepted |
-| 3. Bottom-Up (Tabulation) | $O(N \times A)$ | $O(A)$ | Accepted |
-| 4. Space-Optimized (1D) | $O(N \times A)$ | $O(A)$ | Optimal |
+| 2. Top-Down (Memoization) | $O(N × A)$ | $O(A)$ | Accepted |
+| 3. Bottom-Up (Tabulation) | $O(N × A)$ | $O(A)$ | Accepted |
+| 4. Space-Optimized (1D) | $O(N × A)$ | $O(A)$ | Optimal |
 
 ---
 
